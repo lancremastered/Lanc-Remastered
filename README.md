@@ -30,5 +30,5 @@ Check out our <a href="https://lanc-remastered.com/2019/09/14/how-to-pull-ips-on
 Any problem related queries should go into our forum section or you can follow our repair section <a href="https://lanc-remastered.com/2019/09/15/fix-lanc-remastered/"> here. </a>
 
 <h2> Where to Download Lanc Remastered? </h2>
-Official download files for lanc v2 and remastered edition should be downloaded directly from our website.
-<a href="https://lanc-remastered.com" >Source Code can be found in this repository </a>
+Latest releases for lanc v2 and remastered edition should be downloaded directly from our website.
+Source Code can be found in this repository.
