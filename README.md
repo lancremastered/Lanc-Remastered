@@ -1,5 +1,5 @@
 # Lanc-Remastered
-Lanc Remastered is an opensource network monitoring and packet analysis application designed to pull IP's on gaming consoles such as PS4 and Xbox.
+Lanc Remastered is an opensource network monitoring and packet analysis application designed to pull/sniff IP's on gaming consoles such as PS4 and Xbox.
 
 <h2> Features </h2>
 <h4> Compatibility </h4>
