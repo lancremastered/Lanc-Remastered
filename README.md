@@ -32,3 +32,8 @@ Any problem related queries should go into our forum section or you can follow o
 <h2> Where to Download Lanc Remastered? </h2>
 Latest releases for lanc v2 and remastered edition should be downloaded directly from our website.
 Source Code can be found in this repository.
+
+<h2> How to boot people offline after grabbing IP </h2>
+Boot People Offline - https://bootpeopleoffline.com
+PS4 Booter - https://ps4booter.com
+Xbox Booter - https://xboxonebooter.com
