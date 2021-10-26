@@ -37,3 +37,8 @@ Source Code can be found in this repository.
 Boot People Offline - https://bootpeopleoffline.com
 PS4 Booter - https://ps4booter.com
 Xbox Booter - https://xboxonebooter.com
+
+<h2> More Gamer Tools </h2>
+DS4Windows - https://ds4-windows.com
+Rainmeter Skins - https://rainmeter-skins.com
+OSINT Tools - https://osinttools.com
