@@ -43,3 +43,6 @@ Xbox Booter - https://xboxbooter.com
 DS4Windows - https://ds4-windows.com
 Rainmeter Skins - https://rainmeter-skins.com
 OSINT Tools - https://osinttools.com
+VisualBoyAdvance (GBA Emulator) - https://visualboyadvance.org
+BSNES (SNES Emulator) - https://bsnes.org
+Pokemon ROMS - https://pokemonroms.org
