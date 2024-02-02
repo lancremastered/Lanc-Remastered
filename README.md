@@ -46,3 +46,4 @@ OSINT Tools - https://osinttools.com
 VisualBoyAdvance (GBA Emulator) - https://visualboyadvance.org
 BSNES (SNES Emulator) - https://bsnes.org
 Pokemon ROMS - https://pokemonroms.org
+Roblox FPS Unlocker - https://rbxfpsunlocker.com
