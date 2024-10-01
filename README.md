@@ -47,6 +47,6 @@ VisualBoyAdvance (GBA Emulator) - https://visualboyadvance.org
 BSNES (SNES Emulator) - https://bsnes.org
 Pokemon ROMS - https://pokemonroms.org
 Citra (3DS Emulator) - https://citra-emulator.com
-Lime3DS (3DS Emulator) - https://lime3ds.com
+Microsoft Activation Scripts - https://microsoftactivationscripts.com
 Kali Linux Tools - https://kalilinuxtools.com
 HackRF One - https://hackrfone.com
