@@ -41,12 +41,14 @@ Xbox Booter - https://xboxbooter.com
 
 <h2> More Gamer Tools </h2>
 DS4Windows - https://ds4-windows.com
+DualsenseX - https://dualsensex.com
+Vigem Bus Driver - https://vigembusdriver.com
 Rainmeter Skins - https://rainmeter-skins.com
 OSINT Tools - https://osinttools.com
 VisualBoyAdvance (GBA Emulator) - https://visualboyadvance.org
 BSNES (SNES Emulator) - https://bsnes.org
 Pokemon ROMS - https://pokemonroms.org
 Citra (3DS Emulator) - https://citra-emulator.com
-Microsoft Activation Scripts - https://microsoftactivationscripts.com
+Xenia (Xbox 360 Emulator) - https://xenia-emulator.com
 Kali Linux Tools - https://kalilinuxtools.com
 HackRF One - https://hackrfone.com
